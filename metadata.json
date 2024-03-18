@@ -1,0 +1,72 @@
+{
+    "KPackageStructure": "KSysguard/SensorFace",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "xkain123@gmail.com",
+                "Name": "xkain"
+            }
+        ],
+        "Icon": "systemsettings.svg",
+        "Id": "OmniGauges",
+        "License": "GPL-2.0",
+        "Name": "OmniGauges",
+        "Name[bg]": "Многофункционални мерни уреди",
+        "Name[ca@valencia]": "OmniIndicadors",
+        "Name[ca]": "OmniIndicadors",
+        "Name[cs]": "Všestranné měřiče",
+        "Name[de]": "Universalanzeigen",
+        "Name[en_GB]": "OmniGauges",
+        "Name[eo]": "OmniIndikiloj",
+        "Name[es]": "OmniIndicadores",
+        "Name[eu]": "OmniIndikadoreak",
+        "Name[fi]": "Monitoimet",
+        "Name[fr]": "OmniGauges",
+        "Name[gl]": "OmniIndicadores",
+        "Name[hu]": "Többfunkciós mérőeszközök",
+        "Name[ia]": "OmniIndicatores",
+        "Name[it]": "Strumenti universali",
+        "Name[ka]": "უნივერსალური ჩვენებები",
+        "Name[ko]": "옴니게이지",
+        "Name[lt]": "Universalių įrankių juostos",
+        "Name[nl]": "OmniGauges",
+        "Name[nn]": "OmniGauges",
+        "Name[pl]": "Uniwersalne wskaźniki",
+        "Name[ru]": "Универсальные приборы",
+        "Name[sk]": "Všestranné meracie prístroje",
+        "Name[sl]": "Univerzalne naprave",
+        "Name[tr]": "Tümleşik ölçüm cihazları",
+        "Name[uk]": "Універсальні прилади",
+        "Name[x-test]": "xxOmniGaugesxx",
+        "Name[zh_CN]": "全能表",
+        "Name[zh_TW]": "全能儀表"
+,
+        "Version": "1.0",
+        "Website": "https://github.com/xkain/OmniGauges"
+    },
+    "X-KDE-ParentApp": "org.kde.plasmashell",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
